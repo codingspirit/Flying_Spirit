@@ -1,0 +1,71 @@
+Removed Pin From Net: NetName=GND Pin=R8-1
+Removed Member From Class: ClassName=communication Member=AN1
+Added Component: Designator=MotorA(HDR1X2)
+Added Component: Designator=MotorB(HDR1X2)
+Added Component: Designator=MotorC(HDR1X2)
+Added Component: Designator=MotorD(HDR1X2)
+Added Component: Designator=Q1(SI2302)
+Added Component: Designator=Q2(SI2302)
+Added Component: Designator=Q3(SI2302)
+Added Component: Designator=Q4(SI2302)
+Added Component: Designator=R10(R-0603)
+Added Component: Designator=R11(R-0603)
+Added Component: Designator=R12(R-0603)
+Added Component: Designator=R13(R-0603)
+Added Component: Designator=R14(R-0603)
+Added Pin To Net: NetName=BAT3.7V Pin=MotorA-1
+Added Pin To Net: NetName=BAT3.7V Pin=MotorB-1
+Added Pin To Net: NetName=BAT3.7V Pin=MotorC-1
+Added Pin To Net: NetName=BAT3.7V Pin=MotorD-1
+Added Pin To Net: NetName=GND Pin=Q1-2
+Added Pin To Net: NetName=GND Pin=Q2-2
+Added Pin To Net: NetName=GND Pin=Q3-2
+Added Pin To Net: NetName=GND Pin=Q4-2
+Added Pin To Net: NetName=ISP_5V Pin=R8-1
+Added Pin To Net: NetName=GND Pin=R8-2
+Added Pin To Net: NetName=GND Pin=R10-1
+Added Pin To Net: NetName=GND Pin=R11-1
+Added Pin To Net: NetName=GND Pin=R12-1
+Added Pin To Net: NetName=GND Pin=R13-1
+Added Pin To Net: NetName=GND Pin=R8-1
+Added Pin To Net: NetName=NetMotorA_2 Pin=MotorA-2
+Added Pin To Net: NetName=NetMotorA_2 Pin=Q1-3
+Added Net: Name=NetMotorA_2
+Added Pin To Net: NetName=NetMotorB_2 Pin=MotorB-2
+Added Pin To Net: NetName=NetMotorB_2 Pin=Q2-3
+Added Net: Name=NetMotorB_2
+Added Pin To Net: NetName=NetMotorC_2 Pin=MotorC-2
+Added Pin To Net: NetName=NetMotorC_2 Pin=Q3-3
+Added Net: Name=NetMotorC_2
+Added Pin To Net: NetName=NetMotorD_2 Pin=MotorD-2
+Added Pin To Net: NetName=NetMotorD_2 Pin=Q4-3
+Added Net: Name=NetMotorD_2
+Added Pin To Net: NetName=NetR14_2 Pin=R8-2
+Added Pin To Net: NetName=NetR14_2 Pin=U6-5
+Added Net: Name=NetR14_2
+Added Pin To Net: NetName=PWMA Pin=Q1-1
+Added Pin To Net: NetName=PWMA Pin=R10-2
+Added Net: Name=PWMA
+Added Pin To Net: NetName=PWMB Pin=Q2-1
+Added Pin To Net: NetName=PWMB Pin=R11-2
+Added Net: Name=PWMB
+Added Pin To Net: NetName=PWMC Pin=Q3-1
+Added Pin To Net: NetName=PWMC Pin=R12-2
+Added Net: Name=PWMC
+Added Pin To Net: NetName=PWMD Pin=Q4-1
+Added Pin To Net: NetName=PWMD Pin=R13-2
+Added Net: Name=PWMD
+Change Class Name : Old Net Name=communication New Net Name=other
+Added Member To Class: ClassName=other Member=Component MotorA Header 2
+Added Member To Class: ClassName=other Member=Component MotorB Header 2
+Added Member To Class: ClassName=other Member=Component MotorC Header 2
+Added Member To Class: ClassName=other Member=Component MotorD Header 2
+Added Member To Class: ClassName=other Member=Component Q1 SI2302
+Added Member To Class: ClassName=other Member=Component Q2 SI2302
+Added Member To Class: ClassName=other Member=Component Q3 SI2302
+Added Member To Class: ClassName=other Member=Component Q4 SI2302
+Added Member To Class: ClassName=other Member=Component R10 Res2
+Added Member To Class: ClassName=other Member=Component R11 Res2
+Added Member To Class: ClassName=other Member=Component R12 Res2
+Added Member To Class: ClassName=other Member=Component R13 Res2
+Added Member To Class: ClassName=main Member=Component R14 Res2

@@ -1,0 +1,17 @@
+..\Download\misc.o: ..\Libraries\src\misc.c
+..\Download\misc.o: ..\Libraries\inc\misc.h
+..\Download\misc.o: ..\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h
+..\Download\misc.o: ..\CMSIS\CM3\CoreSupport\core_cm3.h
+..\Download\misc.o: E:\Èí¼þ\keil\ARM\RV31\Inc\stdint.h
+..\Download\misc.o: ..\CMSIS\CM3\DeviceSupport\ST\STM32F10x\system_stm32f10x.h
+..\Download\misc.o: ..\USER\stm32f10x_conf.h
+..\Download\misc.o: ..\Libraries\inc\stm32f10x_exti.h
+..\Download\misc.o: ..\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h
+..\Download\misc.o: ..\Libraries\inc\stm32f10x_flash.h
+..\Download\misc.o: ..\Libraries\inc\stm32f10x_gpio.h
+..\Download\misc.o: ..\Libraries\inc\stm32f10x_i2c.h
+..\Download\misc.o: ..\Libraries\inc\stm32f10x_rcc.h
+..\Download\misc.o: ..\Libraries\inc\stm32f10x_spi.h
+..\Download\misc.o: ..\Libraries\inc\stm32f10x_tim.h
+..\Download\misc.o: ..\Libraries\inc\stm32f10x_usart.h
+..\Download\misc.o: ..\Libraries\inc\misc.h

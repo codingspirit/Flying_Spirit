@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=D1 Old Footprint=DIODE-SMA/SMB New Footprint=DIODE-1206
+Change Component Footprint: Designator=D2 Old Footprint=DIODE-SMA/SMB New Footprint=DIODE-1206
+Change Component Footprint: Designator=D3 Old Footprint=DIODE-SMA/SMB New Footprint=DIODE-1206
+Added Component: Designator=U1(BLE_CC2541)
+Added Member To Class: ClassName=other Member=Component U1 BlueTooth

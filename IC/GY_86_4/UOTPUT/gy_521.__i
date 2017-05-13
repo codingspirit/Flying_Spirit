@@ -1,0 +1,5 @@
+-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\CMSIS -I..\user -I..\FWlib\inc -I..\FWlib\src 
+-I D:\mdk44\ARM\RV31\INC 
+-I D:\mdk44\ARM\CMSIS\Include 
+-I D:\mdk44\ARM\Inc\ST\STM32F10x 
+-DUSE_STDPERIPH_DRIVER -DSTM32F10X_HD -o "..\UOTPUT\gy_521.o" --omf_browse "..\UOTPUT\gy_521.crf" --depend "..\UOTPUT\gy_521.d" "GY_521.c"

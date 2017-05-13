@@ -1,0 +1,48 @@
+*** Creating Trace Output File '..\UOTPUT\system_time.tra' Ok.
+### Preparing for ADS-LD.
+### Creating ADS-LD Command Line
+### List of Objects: adding '"..\uotput\startup_stm32f10x_hd.o"'
+### List of Objects: adding '"..\uotput\main.o"'
+### List of Objects: adding '"..\uotput\stm32f10x_it.o"'
+### List of Objects: adding '"..\uotput\gy_86.o"'
+### List of Objects: adding '"..\uotput\usart1.o"'
+### List of Objects: adding '"..\uotput\misc.o"'
+### List of Objects: adding '"..\uotput\stm32f10x_adc.o"'
+### List of Objects: adding '"..\uotput\stm32f10x_bkp.o"'
+### List of Objects: adding '"..\uotput\stm32f10x_can.o"'
+### List of Objects: adding '"..\uotput\stm32f10x_cec.o"'
+### List of Objects: adding '"..\uotput\stm32f10x_crc.o"'
+### List of Objects: adding '"..\uotput\stm32f10x_dac.o"'
+### List of Objects: adding '"..\uotput\stm32f10x_dbgmcu.o"'
+### List of Objects: adding '"..\uotput\stm32f10x_dma.o"'
+### List of Objects: adding '"..\uotput\stm32f10x_exti.o"'
+### List of Objects: adding '"..\uotput\stm32f10x_flash.o"'
+### List of Objects: adding '"..\uotput\stm32f10x_fsmc.o"'
+### List of Objects: adding '"..\uotput\stm32f10x_gpio.o"'
+### List of Objects: adding '"..\uotput\stm32f10x_i2c.o"'
+### List of Objects: adding '"..\uotput\stm32f10x_iwdg.o"'
+### List of Objects: adding '"..\uotput\stm32f10x_pwr.o"'
+### List of Objects: adding '"..\uotput\stm32f10x_rcc.o"'
+### List of Objects: adding '"..\uotput\stm32f10x_rtc.o"'
+### List of Objects: adding '"..\uotput\stm32f10x_sdio.o"'
+### List of Objects: adding '"..\uotput\stm32f10x_spi.o"'
+### List of Objects: adding '"..\uotput\stm32f10x_tim.o"'
+### List of Objects: adding '"..\uotput\stm32f10x_usart.o"'
+### List of Objects: adding '"..\uotput\stm32f10x_wwdg.o"'
+### List of Objects: adding '"..\uotput\core_cm3.o"'
+### List of Objects: adding '"..\uotput\system_stm32f10x.o"'
+### ADS-LD Command completed:
+--cpu Cortex-M3 "..\uotput\startup_stm32f10x_hd.o" "..\uotput\main.o" "..\uotput\stm32f10x_it.o" "..\uotput\gy_86.o" "..\uotput\usart1.o" "..\uotput\misc.o" "..\uotput\stm32f10x_adc.o" "..\uotput\stm32f10x_bkp.o" "..\uotput\stm32f10x_can.o" "..\uotput\stm32f10x_cec.o" "..\uotput\stm32f10x_crc.o" "..\uotput\stm32f10x_dac.o" "..\uotput\stm32f10x_dbgmcu.o" "..\uotput\stm32f10x_dma.o" "..\uotput\stm32f10x_exti.o" "..\uotput\stm32f10x_flash.o" "..\uotput\stm32f10x_fsmc.o" "..\uotput\stm32f10x_gpio.o" "..\uotput\stm32f10x_i2c.o" "..\uotput\stm32f10x_iwdg.o" "..\uotput\stm32f10x_pwr.o" "..\uotput\stm32f10x_rcc.o" "..\uotput\stm32f10x_rtc.o" "..\uotput\stm32f10x_sdio.o" "..\uotput\stm32f10x_spi.o" "..\uotput\stm32f10x_tim.o" "..\uotput\stm32f10x_usart.o" "..\uotput\stm32f10x_wwdg.o" "..\uotput\core_cm3.o" "..\uotput\system_stm32f10x.o" 
+--ro-base 0x08000000 --entry 0x08000000 --rw-base 0x20000000 --entry Reset_Handler --first __Vectors --strict --summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list "..\Listing\system_time.map" -o ..\UOTPUT\system_time.axf### Preparing Environment (PrepEnvAds)
+### ADS-LD Output File: '..\UOTPUT\system_time.axf'
+### ADS-LD Command File: '..\UOTPUT\system_time.lnp'
+### Checking for dirty Components...
+### Creating CmdFile '..\UOTPUT\system_time.lnp', Handle=0x000011C8
+### Writing '.lnp' file
+### ADS-LD Command file '..\UOTPUT\system_time.lnp' is ready.
+### ADS-LD: About to start ADS-LD Thread.
+### ADS-LD: executed with 0 errors
+### Updating obj list
+### LDADS_file() completed.

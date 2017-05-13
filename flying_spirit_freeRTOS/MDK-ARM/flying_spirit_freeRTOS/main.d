@@ -1,0 +1,63 @@
+flying_spirit_freertos\main.o: ../Src/main.c
+flying_spirit_freertos\main.o: ../Inc/main.h
+flying_spirit_freertos\main.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h
+flying_spirit_freertos\main.o: ../Inc/stm32f1xx_hal_conf.h
+flying_spirit_freertos\main.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc.h
+flying_spirit_freertos\main.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_def.h
+flying_spirit_freertos\main.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f1xx.h
+flying_spirit_freertos\main.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f103xb.h
+flying_spirit_freertos\main.o: ../Drivers/CMSIS/Include/core_cm3.h
+flying_spirit_freertos\main.o: D:\Program Files\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+flying_spirit_freertos\main.o: ../Drivers/CMSIS/Include/core_cmInstr.h
+flying_spirit_freertos\main.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+flying_spirit_freertos\main.o: ../Drivers/CMSIS/Include/core_cmFunc.h
+flying_spirit_freertos\main.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/system_stm32f1xx.h
+flying_spirit_freertos\main.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h
+flying_spirit_freertos\main.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h
+flying_spirit_freertos\main.o: D:\Program Files\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+flying_spirit_freertos\main.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc_ex.h
+flying_spirit_freertos\main.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio.h
+flying_spirit_freertos\main.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio_ex.h
+flying_spirit_freertos\main.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma.h
+flying_spirit_freertos\main.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma_ex.h
+flying_spirit_freertos\main.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_cortex.h
+flying_spirit_freertos\main.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_adc.h
+flying_spirit_freertos\main.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_adc_ex.h
+flying_spirit_freertos\main.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash.h
+flying_spirit_freertos\main.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash_ex.h
+flying_spirit_freertos\main.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_i2c.h
+flying_spirit_freertos\main.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h
+flying_spirit_freertos\main.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_tim.h
+flying_spirit_freertos\main.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_tim_ex.h
+flying_spirit_freertos\main.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_uart.h
+flying_spirit_freertos\main.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pcd.h
+flying_spirit_freertos\main.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_usb.h
+flying_spirit_freertos\main.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pcd_ex.h
+flying_spirit_freertos\main.o: ../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS/cmsis_os.h
+flying_spirit_freertos\main.o: D:\Program Files\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+flying_spirit_freertos\main.o: ../Drivers/CMSIS/Include/core_cmFunc.h
+flying_spirit_freertos\main.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+flying_spirit_freertos\main.o: ../Inc/FreeRTOSConfig.h
+flying_spirit_freertos\main.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+flying_spirit_freertos\main.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+flying_spirit_freertos\main.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+flying_spirit_freertos\main.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+flying_spirit_freertos\main.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+flying_spirit_freertos\main.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+flying_spirit_freertos\main.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+flying_spirit_freertos\main.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/timers.h
+flying_spirit_freertos\main.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/queue.h
+flying_spirit_freertos\main.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/semphr.h
+flying_spirit_freertos\main.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/event_groups.h
+flying_spirit_freertos\main.o: ../Inc/adc.h
+flying_spirit_freertos\main.o: ../Inc/dma.h
+flying_spirit_freertos\main.o: ../Inc/i2c.h
+flying_spirit_freertos\main.o: ../Inc/tim.h
+flying_spirit_freertos\main.o: ../Inc/usart.h
+flying_spirit_freertos\main.o: ../Inc/usb_device.h
+flying_spirit_freertos\main.o: ../Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_def.h
+flying_spirit_freertos\main.o: ../Inc/usbd_conf.h
+flying_spirit_freertos\main.o: D:\Program Files\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+flying_spirit_freertos\main.o: D:\Program Files\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+flying_spirit_freertos\main.o: ../Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_def.h
+flying_spirit_freertos\main.o: ../Inc/gpio.h

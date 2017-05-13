@@ -1,0 +1,50 @@
+Removed Pin From Net: NetName=ISP_5V Pin=D2-1
+Removed Pin From Net: NetName=UART1_TX Pin=P4-2
+Removed Pin From Net: NetName=UART1_RX Pin=P4-3
+Removed Pin From Net: NetName=ISP_5V Pin=P4-4
+Change Component Comment : Designator=P4 Old Comment=UART1/ISP New Comment=SW
+Change Component Designator: OldDesignator=R9 NewDesignator=R17
+Added Component: Designator=BT(LED_0603_RED)
+Added Component: Designator=CHRG(LED_0603_RED)
+Added Component: Designator=PWR(LED_0603_RED)
+Added Component: Designator=R9(R-0603)
+Added Component: Designator=R15(R-0603)
+Added Component: Designator=R16(R-0603)
+Added Pin To Net: NetName=GND Pin=BT-2
+Added Pin To Net: NetName=CHRG_LED Pin=CHRG-2
+Added Pin To Net: NetName=GND Pin=PWR-2
+Added Pin To Net: NetName=3.3V Pin=R9-2
+Added Pin To Net: NetName=USB_5V Pin=R15-2
+Added Pin To Net: NetName=3.3V_BT Pin=R16-2
+Added Pin To Net: NetName=3.3V_BT Pin=U1-1
+Added Pin To Net: NetName=GND Pin=U1-24
+Added Pin To Net: NetName=NetBT_1 Pin=BT-1
+Added Pin To Net: NetName=NetBT_1 Pin=R16-1
+Added Net: Name=NetBT_1
+Added Pin To Net: NetName=NetCHRG_1 Pin=CHRG-1
+Added Pin To Net: NetName=NetCHRG_1 Pin=R15-1
+Added Net: Name=NetCHRG_1
+Added Pin To Net: NetName=NetPWR_1 Pin=PWR-1
+Added Pin To Net: NetName=NetPWR_1 Pin=R9-1
+Added Net: Name=NetPWR_1
+Added Pin To Net: NetName=SW_5V Pin=D2-1
+Added Pin To Net: NetName=SW_5V Pin=P4-4
+Added Net: Name=SW_5V
+Added Pin To Net: NetName=SWC Pin=P4-3
+Added Pin To Net: NetName=SWC Pin=U3-37
+Added Net: Name=SWC
+Added Pin To Net: NetName=SWD Pin=P4-2
+Added Pin To Net: NetName=SWD Pin=U3-34
+Added Net: Name=SWD
+Added Pin To Net: NetName=UART2_RX Pin=U1-19
+Added Pin To Net: NetName=UART2_RX Pin=U3-13
+Added Net: Name=UART2_RX
+Added Pin To Net: NetName=UART2_TX Pin=U1-20
+Added Pin To Net: NetName=UART2_TX Pin=U3-12
+Added Net: Name=UART2_TX
+Added Member To Class: ClassName=main Member=Component BT LED3
+Added Member To Class: ClassName=main Member=Component CHRG LED3
+Added Member To Class: ClassName=main Member=Component PWR LED3
+Added Member To Class: ClassName=main Member=Component R15 Res2
+Added Member To Class: ClassName=main Member=Component R16 Res2
+Added Member To Class: ClassName=main Member=Component R17 Res2

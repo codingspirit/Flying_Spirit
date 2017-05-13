@@ -1,0 +1,31 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [flying_spirit.PrjPcb]
+   Generated File[flying_spirit.GTL]
+   Generated File[flying_spirit.GBL]
+   Generated File[flying_spirit.GPB]
+   Generated File[flying_spirit.GPT]
+   Generated File[flying_spirit.GTO]
+   Generated File[flying_spirit.GTP]
+   Generated File[flying_spirit.GTS]
+   Generated File[flying_spirit.GBS]
+   Generated File[flying_spirit.GBP]
+   Generated File[flying_spirit.GBO]
+   Generated File[flying_spirit.GKO]
+   Generated File[flying_spirit.GM1]
+   Generated File[flying_spirit.GM13]
+   Generated File[flying_spirit.GM14]
+   Generated File[flying_spirit.GM15]
+   Generated File[flying_spirit.GML]
+   Generated File[flying_spirit.1]
+   Generated File[flying_spirit.GD1]
+   Generated File[flying_spirit.GG1]
+   Generated File[flying_spirit.RUL]
+   Generated File[flying_spirit.EXTREP]
+   Generated File[flying_spirit.REP]
+
+
+Files Generated   : 22
+Documents Printed : 0
+
+Finished Output Generation At 7:55:56 On 2017/5/8

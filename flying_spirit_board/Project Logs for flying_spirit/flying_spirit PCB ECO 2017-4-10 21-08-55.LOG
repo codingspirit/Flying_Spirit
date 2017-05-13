@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=LEDA Pin=U3-3
+Added Pin To Net: NetName=LEDB Pin=U3-15
+Added Pin To Net: NetName=LEDC Pin=U3-25
+Added Pin To Net: NetName=LEDD Pin=U3-46
+Added Room: Name=main
+Added Room: Name=other

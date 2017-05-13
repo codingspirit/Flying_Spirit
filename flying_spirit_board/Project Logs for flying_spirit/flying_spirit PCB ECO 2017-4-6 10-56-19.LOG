@@ -1,0 +1,6 @@
+Added Component: Designator=P3(HDR1X8)
+Added Pin To Net: NetName=5V Pin=P3-1
+Added Pin To Net: NetName=GND Pin=P3-3
+Added Pin To Net: NetName=IIC_SCL Pin=P3-4
+Added Pin To Net: NetName=IIC_SDA Pin=P3-5
+Added Member To Class: ClassName=main Member=Component P3 gy-86
